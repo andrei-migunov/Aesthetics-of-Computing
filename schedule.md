@@ -21,39 +21,136 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 # Detailed Schedule
 
-
-| Date | Reading |
-| :--- | :--- |
-| 8/24 | some readings listed here: 
-1. Reading 1
-2. Reading 2 |
-| 8/26 | |
-| 8/31 | another reading here. 
-also watch this video! TBD |
-| 9/2 | |
-| 9/7 | |
-| 9/9 | |
-| 9/14 | |
-| 9/16 | |
-| 9/21 | |
-| 9/23 | |
-| 9/28 | |
-| 9/30 | |
-| 10/5 | |
-| 10/7 | |
-| 10/12 | |
-| 10/14 | |
-| 10/19 | |
-| 10/21 | |
-| 10/26 | |
-| 10/28 | |
-| 11/2 | |
-| 11/4 | |
-| 11/9 | |
-| 11/11 | |
-| 11/16 | |
-| 11/18 | |
-| 11/23 | |
-| 11/25 | |
-| 11/30 | |
-| 12/1 | |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Date</th>
+      <th style="text-align: left;">Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8/24</td>
+      <td> Reading 1: 
+      Reading 2: lkiansdf</td>
+    </tr>
+    <tr>
+      <td>8/26</td>
+      <td>watch this video! 
+      also maybe this one! 
+      TEST</td>
+    </tr>
+    <tr>
+      <td>8/31</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/7</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/9</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/14</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/16</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/21</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/23</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/28</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9/30</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/7</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/12</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/14</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/19</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/21</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/26</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/28</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/9</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/11</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/16</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/18</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/23</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/25</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/30</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12/1</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
