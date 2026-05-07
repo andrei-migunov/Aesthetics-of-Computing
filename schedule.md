@@ -20,3 +20,40 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 
 # Detailed Schedule
+
+
+| Date | Reading |
+| :--- | :--- |
+| 8/24 | some readings listed here: 
+1. Reading 1
+2. Reading 2 |
+| 8/26 | |
+| 8/31 | another reading here. 
+also watch this video! TBD |
+| 9/2 | |
+| 9/7 | |
+| 9/9 | |
+| 9/14 | |
+| 9/16 | |
+| 9/21 | |
+| 9/23 | |
+| 9/28 | |
+| 9/30 | |
+| 10/5 | |
+| 10/7 | |
+| 10/12 | |
+| 10/14 | |
+| 10/19 | |
+| 10/21 | |
+| 10/26 | |
+| 10/28 | |
+| 11/2 | |
+| 11/4 | |
+| 11/9 | |
+| 11/11 | |
+| 11/16 | |
+| 11/18 | |
+| 11/23 | |
+| 11/25 | |
+| 11/30 | |
+| 12/1 | |
