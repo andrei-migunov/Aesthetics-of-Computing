@@ -65,9 +65,11 @@ In discussions, I will usually give you some questions to think about, and you'l
 
 After some discussion, I will give you some time to work on your journaling. Later in the semester we may or may not make some in-class time to work on your final papers.
 
-# GUIDELIES FOR DISCUSSION, READING, AND THIS CLASS IN GENERAL
+# GUIDELINES FOR DISCUSSION, READING, AND THIS CLASS IN GENERAL
 
-> The more detached one is from a role, the easier it is to turn it against an adversary. The more effectively one avoids the weight of things, the easier it is to achieve lightness of movement. Real friends care little for forms. They argue openly, confident in the knowledge that they can inflict no wounds. Where communication is genuinely sought, misunderstandings are no crime. But if you accost me armed to the teeth, understanding agreement only in terms of a victory for you, then you will get nothing out of me but an evasive pose, and a silence signalling that discussion is ended. (Raoul Vaneigem, /The Revolution of Everyday Life/)
+> The more detached one is from a role, the easier it is to turn it against an adversary. The more effectively one avoids the weight of things, the easier it is to achieve lightness of movement. Real friends care little for forms. They argue openly, confident in the knowledge that they can inflict no wounds. Where communication is genuinely sought, misunderstandings are no crime. But if you accost me armed to the teeth, understanding agreement only in terms of a victory for you, then you will get nothing out of me but an evasive pose, and a silence signalling that discussion is ended. (Raoul Vaneigem)
+
+>‘Good’ conversation is good rather than ‘disappointing’ — it does not merely chew over factual disputes or retreat into a play of disembodied concepts — because it, and it alone, allows conversational partners to challenge one another and to learn from one another in a fashion which brings all things about each partner into play. [...] nothing is less polite than rigorous conversation pursued to its end. (Richard Gunn)
 
 0. <b>Safety</b>: Please come to the instructor with any serious interpersonal problems - I am always happy to hear you out and talk, and I will take any serious issues seriously. If you have a concern, especially regarding your safety or someone else's, please reach out to me to discuss it privately, and it will be addressed.
 

@@ -31,126 +31,217 @@ Supplementary readings are <i>optional</i> and you are not required to read them
   <tbody>
     <tr>
       <td>8/24</td>
-      <td> Reading 1: 
-      Reading 2: lkiansdf</td>
+      <td> 
+        <li>Topic: Welcome! + Intro</li>
+        <li>Reading for this day: (Nothing for the first day - but read the course syllabus for next time, and start on the readings for next week) </li>
+      </td>
     </tr>
     <tr>
       <td>8/26</td>
-      <td>watch this video! 
-      also maybe this one! 
-      TEST</td>
+      <td>
+        <li>Topic:  </li>
+        <li>Reading: The whole syllabus (this website) and the <a href="https://www.drake.edu/studentlife/handbook-resources/handbook/academic/">Drake University Academic Integrity Policy</a> </li> 
+      </td>
     </tr>
     <tr>
       <td>8/31</td>
-      <td></td>
+      <td>
+        <li>Topic: What is Aesthetics? + Everyday Aesthetics</li>
+        <li>Reading: Brummett - Rhetoric of Machine Aesthetics Ch. 1  </li> 
+        <li>Skim: Wikipedia: Everyday Aesthetics </li> 
+        <li>TODO: Syllabus Quiz</li>
+      </td>
     </tr>
     <tr>
       <td>9/2</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li>
+        <li> Viewing: [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
+</li> 
+      </td>
     </tr>
     <tr>
       <td>9/7</td>
-      <td></td>
+      <td>
+        <li>"Labor Day" </li>
+        <li> NO CLASS</li> 
+      </td>
     </tr>
     <tr>
       <td>9/9</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/14</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/16</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/21</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/23</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/28</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>9/30</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/5</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/7</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/12</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/14</td>
-      <td></td>
+      <td>
+        <li>FALL BREAK </li>
+        <li> NO CLASS</li> 
+      </td>
     </tr>
     <tr>
       <td>10/19</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/21</td>
-      <td></td>
+            <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/26</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>10/28</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/2</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/4</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/9</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/11</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/16</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/18</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/23</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/25</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>11/30</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
     <tr>
       <td>12/1</td>
-      <td></td>
+      <td>
+        <li>Topic: </li>
+        <li> </li> 
+      </td>
     </tr>
   </tbody>
 </table>
