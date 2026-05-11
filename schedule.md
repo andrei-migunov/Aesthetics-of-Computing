@@ -20,7 +20,369 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 
 # Detailed Schedule
+---
 
+**Date:** 8/24
+
+**Topic:** Welcome! + Intro
+
+**Readings:** Nothing for the first day - but read the course syllabus for next time, and start on the readings for next week
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 8/26
+
+**Topic:**
+
+**Readings:** The whole syllabus (this website) and the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/)
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 8/31
+
+**Topic:** What is Aesthetics? + Everyday Aesthetics
+
+**Readings:** Brummett - Rhetoric of Machine Aesthetics Ch. 1
+
+**Viewings:**
+
+**Optional:** Skim: Wikipedia: Everyday Aesthetics; TODO: Syllabus Quiz
+
+---
+
+**Date:** 9/2
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:** [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
+
+**Optional:**
+
+---
+
+**Date:** 9/7
+
+**Topic:** **Labor Day - NO CLASS**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/9
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/14
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/16
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/21
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/23
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/28
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 9/30
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/5
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/7
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/12
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/14
+
+**Topic:** **FALL BREAK - NO CLASS**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/19
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/21
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/26
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 10/28
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/2
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/4
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/9
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/11
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/16
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/18
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/23
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/25
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 11/30
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+---
+
+**Date:** 12/1
+
+**Topic:**
+
+**Readings:**
+
+**Viewings:**
+
+**Optional:**
+
+
+
+<!-- 
 <table>
   <thead>
     <tr>
@@ -244,4 +606,4 @@ Supplementary readings are <i>optional</i> and you are not required to read them
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
