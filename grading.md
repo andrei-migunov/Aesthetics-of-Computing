@@ -9,6 +9,8 @@ permalink: /grading
 
 >“Part of the art of learning any difficult act, like music, is knowing both how to teach yourself and how best to use the teaching of others, how to gain from the greater experience and skill of other people without becoming dependent on them. For few people are likely to become good at music, or anything else, who do not learn how to teach themselves.” - (J. Holt, in Never Too Late)
 
+>‘Good’ conversation is good rather than ‘disappointing’ — it does not merely chew over factual disputes or retreat into a play of disembodied concepts — because it, and it alone, allows conversational partners to challenge one another and to learn from one another in a fashion which brings all things about each partner into play. [...] nothing is less polite than rigorous conversation pursued to its end. (Richard Gunn)
+
 # GRADING SCALE
 
 93-100.0% A
@@ -46,7 +48,8 @@ I am always happy to give you *even more* feedback - but *you must ask for it yo
 
 
 ## WRITING CONVERSATION 
-The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>at least one</b> appointment, visit the writing center, and then you will get the points for this assignment. 
+
+The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you should make <b>at least one</b> appointment to visit the writing center.
 
 You can make your appointments here: <a href="https://drake.starfishsolutions.com/starfish-ops/instructor/serviceCatalog.html?tenantId=9303#/service/22074/schedule"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
 
@@ -81,13 +84,7 @@ Once more to be clear: attendance and participation determine 'discussion' porti
 
 # LATE WORK AND EXTENSIONS
 
-No late work is accepted whatsoever. 
-
-You may request an extension of <b> two </b> extra days for an assignment, but only by following the rules below:
-
-Every extension must be requested over email, and every such email must have the following subject line: <b> AOC EXT REQ: HW (number) </b>  I will ignore any email that does not have this subject line. I will ignore every request that comes later than 48 hours <b> before </b> the due date: you must request an extension at least 48 hours before the due date. To do this, you must be paying attention to your own progress on each assignment, and start early.
-
-I am happy to grant extensions, no questions asked.
+As there are very few homework submissions in this course and most of them are around finals time, no late work is accepted whatsoever. 
 
 
 
