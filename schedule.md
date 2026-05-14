@@ -24,49 +24,67 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 **Date:** 8/24
 
-**Topic:** Welcome! + Intro
+**Topic:** Welcome! + Policies + Intro
 
-**Readings:** Nothing for the first day - but read the course syllabus for next time, and start on the readings for next week
+**Readings:** Nothing for today - but read the course syllabus for next time, and start on the readings for next week.
 
-**Viewings:**
-
-**Optional:**
+**Viewings:** None
 
 ---
 
 **Date:** 8/26
 
-**Topic:**
+**Topic:** What is Aesthetics? + Everyday Aesthetics
 
-**Readings:** The whole syllabus (this website) and the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/)
+**Readings:** The whole syllabus (this website) and the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/). 
 
-**Viewings:**
+Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-**Optional:**
+
+**TODO:** Syllabus Quiz on Blackboard (Due tonight)
+
+**Viewings:** (please do not watch the entire 4.5 hour loop) 
+[Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), 
+[Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), 
+[Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), 
+[Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), 
+[Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
+
+**Optional:** [Stanford Encyclopedia of Philosophy - Aesthetics of the Everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+[CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
 
 ---
 
 **Date:** 8/31
 
-**Topic:** What is Aesthetics? + Everyday Aesthetics
+**Topic:** Aesthetic Theory and Rhetoric
 
-**Readings:** Brummett - Rhetoric of Machine Aesthetics Ch. 1
+**Readings:** 
+Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>, 
+Christopher Bartek - <i> Aesthetics and Video Games</i> Ch. 1 
+Susan Sontag - <i>Against Interpretation  </i>
 
 **Viewings:**
 
-**Optional:** Skim: Wikipedia: Everyday Aesthetics; TODO: Syllabus Quiz
+
+**Optional:**  [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
+
 
 ---
 
 **Date:** 9/2
 
-**Topic:**
+**Topic:** Aesthetics and the Unconscious
 
-**Readings:**
+**Readings:** Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
+Daniel Kahneman - <i>Systems 1 and 2</i>
+[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 
-**Viewings:** [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
+**Viewings:** 
 
-**Optional:**
+**Optional:** Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
+Bill Livant - The Hole in Hegel's Bagel
+
 
 ---
 
