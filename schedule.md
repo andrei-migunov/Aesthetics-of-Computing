@@ -61,7 +61,7 @@ Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/E
 
 **Readings:** 
 Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>, 
-Christopher Bartek - <i> Aesthetics and Video Games</i> Ch. 1 
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 1 
 Susan Sontag - <i>Against Interpretation  </i>
 
 **Viewings:**
@@ -92,19 +92,20 @@ Bill Livant - The Hole in Hegel's Bagel
 
 **Topic:** **Labor Day - NO CLASS**
 
-**Readings:**
+**Readings:** [David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
 
-**Viewings:**
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2 
 
-**Optional:**
+**Viewings:** [Two Crows Play in Snow on Car](https://www.youtube.com/watch?v=h7GmYJnUtsY)
+
 
 ---
 
-**Date:** 9/9
+**Date:** 9/9 
 
-**Topic:**
+**Topic:** Play and Games
 
-**Readings:**
+**Readings:** 
 
 **Viewings:**
 
