@@ -7,9 +7,9 @@ permalink: /grading
 <!--https://www.drake.edu/dc/facultystaffresources/fysresources/fall2020fyssamplesyllabi/#d.en.345720 --> 
 
 
->“Part of the art of learning any difficult act, like music, is knowing both how to teach yourself and how best to use the teaching of others, how to gain from the greater experience and skill of other people without becoming dependent on them. For few people are likely to become good at music, or anything else, who do not learn how to teach themselves.” - (J. Holt, in Never Too Late)
+>“Part of the art of learning any difficult act, like music, is knowing both how to teach yourself and how best to use the teaching of others, how to gain from the greater experience and skill of other people without becoming dependent on them. For few people are likely to become good at music, or anything else, who do not learn how to teach themselves.” - (John Holt)
 
->‘Good’ conversation is good rather than ‘disappointing’ — it does not merely chew over factual disputes or retreat into a play of disembodied concepts — because it, and it alone, allows conversational partners to challenge one another and to learn from one another in a fashion which brings all things about each partner into play. [...] nothing is less polite than rigorous conversation pursued to its end. (Richard Gunn)
+
 
 # GRADING SCALE
 
@@ -44,6 +44,8 @@ Other things can take away from this grade without adding to it. Please carefull
 
 The primary feedback given in this class takes two forms: feedback on written work and feedback on the quality of in-class discussion. Twice per semester, I'll ask that you come to my office hours to talk with me about how the class is doing. I ask that you do this once early in the semester, and a second time after the mid-term. I will give you feedback during in-class journaling time by stopping by your desk for a brief conversation, at least once per week. But the most important feedback in class is the of the same nature as the most important feedback in real life - the quality of the conversation we're all having together. And that is something we learn to judge together. Lastly, I will give detailed written feedback on your paper proposal, draft, and final submission.
 
+You must meet with me once before October 16, and a second time between October 19 and the final essay due date (it'd be a good time to talk about that essay together, while we're at it).
+
 I am always happy to give you *even more* feedback - but *you must ask for it yourself*. Always feel free to send me an email that says "I want more feedback about XYZ", or let me know in person. 
 
 
@@ -67,7 +69,7 @@ The centerpiece of your writing is the final paper, and it coincides with a fina
 Neither the paper nor the aesthetic item simply repeat discussions from class. If it uses someone else's ideas (and it's very ok for your aesthetic item to reference other aesthetic items we've encountered), you must 
 
 1. Credit the course discussions where those ideas originated, and
-2. Significantly develop them into something more sophisticated, complex, and multifaceted (or - make your creation *your own*)
+2. Significantly develop them into something more sophisticated, complex, and multifaceted (or - make your creation *your own*).
 
 You are welcome to weave together different threads of thought, but make sure to avoid simply re-treading a lot of old ground without adding much new. 
 

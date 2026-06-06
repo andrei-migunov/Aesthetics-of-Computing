@@ -6,7 +6,7 @@ permalink: /schedule
 
 # Schedule
 
->"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
+>‘Good’ conversation is good rather than ‘disappointing’ — it does not merely chew over factual disputes or retreat into a play of disembodied concepts — because it, and it alone, allows conversational partners to challenge one another and to learn from one another in a fashion which brings all things about each partner into play. [...] nothing is less polite than rigorous conversation pursued to its end. (Richard Gunn)
 
 # Doing the reading
 
@@ -92,12 +92,6 @@ Bill Livant - The Hole in Hegel's Bagel
 
 **Topic:** **Labor Day - NO CLASS**
 
-**Readings:** [David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
-
-Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2 
-
-**Viewings:** [Two Crows Play in Snow on Car](https://www.youtube.com/watch?v=h7GmYJnUtsY)
-
 
 ---
 
@@ -105,9 +99,12 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Topic:** Play and Games
 
-**Readings:** 
 
-**Viewings:**
+**Readings:** [David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
+
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2 
+
+**Viewings:** [Two Crows Play in Snow on Car](https://www.youtube.com/watch?v=h7GmYJnUtsY)
 
 **Optional:**
 
@@ -115,25 +112,25 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 9/14
 
-**Topic:**
+**Topic:** Machine Aesthetics
 
-**Readings:**
+**Readings:** Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech), 
 
-**Viewings:**
+**Viewings:** [Howl's Moving Castle](assets/howlscastle.jpg), [Steam engine](https://www.youtube.com/watch?v=dH5pRQwlxc4), [Anime steampunk aesthetic](https://www.youtube.com/watch?v=lDejK1WvNK0), [Massive machines](https://www.youtube.com/watch?app=desktop&v=QjNFeaIiHUg)
 
-**Optional:**
+**Optional:** (WARNING: weird, uncanny, sexual themes, etc. - not mandatory whatsoever) [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/)
 
 ---
 
-**Date:** 9/16
+**Date:** 9/16 
 
-**Topic:**
+**Topic:** Machine Aesthetics : Repetition 
 
-**Readings:**
+**Readings:** [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years), [The Charnel House - *Repetition, Repetition, Repetition*](https://thecharnelhouse.org/2014/01/19/repetition-repetition-repetition/)
 
-**Viewings:**
+**Viewings:** 
 
-**Optional:**
+**Optional:** [Bauhaus - Influence on Everyday Life](https://www.youtube.com/watch?v=HH7we9EaQok), [Le Corbusier's Machines for Living](https://www.youtube.com/watch?v=vQX7-4qxXBI) [Repetition Compulsion - World Historical Rhythms in Architecture](https://www.e-flux.com/journal/54/59858/repetition-compulsion-world-historical-rhythms-in-architecture)
 
 ---
 
