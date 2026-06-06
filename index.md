@@ -6,6 +6,8 @@ permalink: /index
 
 ![Welcome to Aesthetics of Computing](welcome_aesthetics.gif)
 
+>"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
+
 ### CS 87: Aesthetics of Computing, Fall 2026
 
 ### Welcome to Aesthetics of Computing! My name is Andrei - I am your professor - and I am so excited to have you in my class and to get to know you over the next weeks and months! Please make sure to read the entirety of the syllabus (course policies and information) below, so you can know our policies, what's expected of you, what you can expect from me, and what the class is going to be about!
@@ -15,11 +17,13 @@ permalink: /index
 # > `... loading ...`
 
 # COURSE DESCRIPTION 
+
 Introduction to the study of computing objects and experiences from the standpoint of aesthetics and rhetoric. The focus of this course is the study of the nature of beauty and other aesthetic phenomena in machines, in technology, and in computing devices. Attention is paid to the phenomenology of aesthetic experience, everyday objects such as phones and personal computers, and cultural experiences with technology. Topics are variable and include videogames, algorithmically generated artwork, and the cyberpunk genre. Examinations of technology and computing in art, music, and film. 
 
 You might also think an important topic, reading, idea, or even particular aesthetic object (a song, picture, movie) is missing. If so, tell me! Convince me it matters, and maybe it can be incorporated into the class.
 
 # PROFESSOR INFO
+
 Andrei Migunov
 Office: Collier-Scripps Room 321
 Email: firstname dot lastname at drake dot edu
@@ -54,6 +58,10 @@ We write for others and for ourselves. We can write to lay out and better organi
 Good writing tries to show us something new, tries to anticipate what our readers might already think (or doubt), tries to explain ideas more clearly than they've been explained before, and much more. It goes well beyond academic and persuasive writing. There are a lot of things good writing can do, and you can shoot for any combination of them. Write the kinds of things you'd want to read - find not just your voice, but the shape of that voice and find out what kind of writer you want to be. 
 
 With that in mind, know that one main goal in this class is to become better, clearer, and more able to communicate ideas to other people so that they understand them.
+
+Another thing to consider, however:
+
+>*At heart, write always for yourself, not for family and friends, for admired teachers, for reviewers or publishers; but make sure you write from your real self, not that one besotted by vainglorious dreams of a future self. One day you will realise that the true rewards of writing lie inalienably in the writing itself.* (John Fowles)
 
 
 # ATTENDANCE
