@@ -79,6 +79,8 @@ My office hours are always available at [this link](bit.ly/46DXeZT), and are upd
 
 Class time consists mostly of discussion, some writing, and looking back at selected passages from the readings. It is <b> not </b> the place to do the reading assignments (these have to be completed <b> before </b> class). You are expected to make a meaningful contribution to the discussion at least once a week. The best way to do that is to prepare something to say in advance, not to try to wing it during class. Part of your discussion points are based on the quality and sometimes accuracy of your contributions.
 
+Note: Quizzes may be given (though I would prefer not to) if I get the sense that some portion of the class are not doing the reading. These will affect the participation portion of the grade up to 20% of the course grade, and will cover material from the reading.
+
 # GUIDELINES FOR DISCUSSION, READING, AND THIS CLASS IN GENERAL
 
 > *Real friends care little for forms. They argue openly, confident in the knowledge that they can inflict no wounds. Where communication is genuinely sought, misunderstandings are no crime. But if you accost me armed to the teeth, understanding agreement only in terms of a victory for you, then you will get nothing out of me but an evasive pose, and a silence signalling that discussion is ended.* (Raoul Vaneigem)
@@ -92,6 +94,8 @@ Class time consists mostly of discussion, some writing, and looking back at sele
 4. <b>Do the reading</b>: The quality of discussion is proportional to the care with which you did the reading. If most people did not read the text very closely, or did not take good notes on it and think about it, then we aren't going to be able to have a quality discussion. If I get a sense that students are not doing the reading, I will begin giving reading quizzes in class.
 
 5. <b>Use of class time</b>: During class time you must be focused and listening to others in the room. You are expected to participate and answer questions. "I don't know" is a valid - and, in science, a very important - answer. But even better is to put forward a viewpoint or an insight, and it is expected for every student to do this at least weekly.
+
+
 
 # ARTISTIC LITERACY AREA OF INQUIRY DESIGNATION
 

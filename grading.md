@@ -28,7 +28,7 @@ All your assignments for this class are described below and assigned a percentag
 
 # WHAT YOUR GRADE IS BASED ON
 
-Daily participation in in-class discussions + journaling. 70% 
+Daily participation in in-class discussions + journaling (+ quizzes, if necessary). 70% 
 Proposal for a final paper idea. 10%
 Final paper first draft 10%
 Final paper and final project (an aesthetic creation). 10%

@@ -19,6 +19,7 @@ Our detailed schedule of readings is below. Any reading that is not hyperlinked 
 Supplementary readings are <i>optional</i> and you are not required to read them, though you are encouraged to! 
 
 
+
 # Detailed Schedule
 ---
 
@@ -130,55 +131,66 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Viewings:** 
 
-**Optional:** [Bauhaus - Influence on Everyday Life](https://www.youtube.com/watch?v=HH7we9EaQok), [Le Corbusier's Machines for Living](https://www.youtube.com/watch?v=vQX7-4qxXBI) [Repetition Compulsion - World Historical Rhythms in Architecture](https://www.e-flux.com/journal/54/59858/repetition-compulsion-world-historical-rhythms-in-architecture)
+**Optional:** [Bauhaus - Influence on Everyday Life](https://www.youtube.com/watch?v=HH7we9EaQok), [Le Corbusier's Machines for Living](https://www.youtube.com/watch?v=vQX7-4qxXBI) [Repetition Compulsion - World Historical Rhythms in Architecture](https://www.e-flux.com/journal/54/59858/repetition-compulsion-world-historical-rhythms-in-architecture), [Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
 
 ---
 
 **Date:** 9/21
 
-**Topic:**
+**Topic:** Electrotech and Electronic Aesthetics
 
-**Readings:**
+**Reading:** Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
 
-**Viewings:**
+**Viewing:**
+[Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
+[A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
+[Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
+[2001: A Space Odyssey Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
+[Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
 
-**Optional:**
+**Optional:** Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
 
 ---
 
 **Date:** 9/23
 
-**Topic:**
+**Topic:** Chaotech and the Aesthetics of Machine Decay
 
-**Readings:**
+**Reading:** Brummett - Ch. 4 (Chaotech) 
 
-**Viewings:**
+**Viewing:**[Abandoned mechtech](https://www.youtube.com/watch?v=03yLySD8jOg), [Abandoned electrotech - focus on the device, not its environment](https://www.youtube.com/shorts/jv7iOBBJ6Ns)
 
-**Optional:**
+**Listening:** : [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI), [William Basinski - <i> Disintegration Loops </i>](https://www.youtube.com/watch?v=zj0KO2YldCo) (also see [Wikipedia - Distintegration Loops](https://en.wikipedia.org/wiki/The_Disintegration_Loops))
+
+**Optional:** [The Aesthetics of Decay - Beyond the Beautiful](https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/)
 
 ---
 
 **Date:** 9/28
 
-**Topic:**
+**Topic:** Analog and Biological Computation
 
-**Readings:**
+**Reading:** Chapter 1 of Joshua Clover's <i>The Matrix</i> 
+[Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
 
-**Viewings:**
+**Viewing:** [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7?referrer=direct) (required! Will be available for free via Drake - link to be shared later)
 
-**Optional:**
+**Listening:**: [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
+[Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
+
+**Optional:** [Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w), [Ancient and analog mechtech - the Antikythera mechanism](https://www.youtube.com/watch?v=qqlJ50zDgeA)
 
 ---
 
 **Date:** 9/30
 
-**Topic:**
+**Topic:** Cybernetics
 
-**Readings:**
+**Readings:** [Stafford Beer - <i>Designing Freedom</i> Ch.1](https://monoskop.org/images/e/e3/Beer_Stafford_Designing_Freedom.pdf)
 
-**Viewings:**
+**Viewings:** [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
 
-**Optional:**
+**Optional:** [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
 
 ---
 
