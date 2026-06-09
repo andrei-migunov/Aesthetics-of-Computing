@@ -98,7 +98,7 @@ Bill Livant - The Hole in Hegel's Bagel
 
 **Date:** 9/9 
 
-**Topic:** Play and Games
+**Topic:** Games and Play
 
 
 **Readings:** [David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
@@ -154,6 +154,38 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 9/23
 
+**Topic:** Electrotech and Electronic Aesthetics
+
+**Reading:** Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
+
+**Viewing:**
+[Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
+[A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
+[Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
+[2001: A Space Odyssey Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
+[Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
+
+**Optional:** Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
+
+---
+
+**Date:** 9/28
+
+**Topic:** Chaotech and the Aesthetics of Machine Decay
+
+**Reading:** Brummett - Ch. 4 (Chaotech) 
+
+**Viewing:**[Abandoned mechtech](https://www.youtube.com/watch?v=03yLySD8jOg), [Abandoned electrotech - focus on the device, not its environment](https://www.youtube.com/shorts/jv7iOBBJ6Ns)
+
+**Listening:** : [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI), [William Basinski - <i> Disintegration Loops </i>](https://www.youtube.com/watch?v=zj0KO2YldCo) (also see [Wikipedia - Distintegration Loops](https://en.wikipedia.org/wiki/The_Disintegration_Loops))
+
+**Optional:** [The Aesthetics of Decay - Beyond the Beautiful](https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/)
+
+
+---
+
+**Date:** 9/30
+
 **Topic:** Chaotech and the Aesthetics of Machine Decay
 
 **Reading:** Brummett - Ch. 4 (Chaotech) 
@@ -166,7 +198,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 ---
 
-**Date:** 9/28
+**Date:** 10/5
 
 **Topic:** Analog and Biological Computation
 
@@ -182,7 +214,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 ---
 
-**Date:** 9/30
+**Date:** 10/7
 
 **Topic:** Cybernetics
 
@@ -192,41 +224,19 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Optional:** [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
 
----
-
-**Date:** 10/5
-
-**Topic:**
-
-**Readings:**
-
-**Viewings:**
-
-**Optional:**
-
----
-
-**Date:** 10/7
-
-**Topic:**
-
-**Readings:**
-
-**Viewings:**
-
-**Optional:**
 
 ---
 
 **Date:** 10/12
 
-**Topic:**
+**Topic:** The Uncanny and the Sublime
 
-**Readings:**
+**Readings:** [(Skim) The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley), Edmund Burke - <i>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (Fragments)</i>
+Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
-**Viewings:**
+**Viewings**: Look around online and find examples of both the uncanny and the sublime - add these to the slides with your name.
 
-**Optional:**
+**Optional:** [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 
 ---
 
@@ -244,9 +254,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 10/19
 
-**Topic:**
+**Topic:** Cyberpunk 
 
-**Readings:**
+**Readings:** Neuromancer Ch.s 1-3
 
 **Viewings:**
 
@@ -256,9 +266,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 10/21
 
-**Topic:**
+**Topic:** Cyberpunk
 
-**Readings:**
+**Readings:** Stories from the Big Book - TBD
 
 **Viewings:**
 
@@ -268,9 +278,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 10/26
 
-**Topic:**
+**Topic:** Cyberpunk
 
-**Readings:**
+**Readings:** Stories from the Big Book - TBD
 
 **Viewings:**
 
@@ -280,7 +290,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 10/28
 
-**Topic:**
+**Topic:** Theory of Cyberpunk
 
 **Readings:**
 
@@ -292,25 +302,27 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2
 
 **Date:** 11/2
 
-**Topic:**
+**Topic:** *Blade Runner (1982)*
 
-**Readings:**
-
-**Viewings:**
-
-**Optional:**
 
 ---
 
 **Date:** 11/4
+**Readings:** [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
 
-**Topic:**
+**Viewing:** [Wendy Carlos](https://www.youtube.com/watch?v=UsW2EDGbDqg)
 
-**Readings:**
-
-**Viewings:**
+**Listening**: [Burial - <i>Archangel</i>](https://www.youtube.com/watch?v=E2qLD9c3Gq4), [Sample breakdown of <i>Archangel</i>](https://www.youtube.com/watch?v=rmOuV0ZvAgU), 
+[(some of) Aphex Twin - <i>Selected Ambient Works 85-92</i>](https://www.youtube.com/watch?v=Xw5AiRVqfqk)
+[Nils Frahm - <i>Says</i>](https://www.youtube.com/watch?v=xLNeZogTsK8)
 
 **Optional:**
+[Burial - <i>Forgive</i>](https://www.youtube.com/watch?v=f-Bn8h2TtdU)
+[Ikonika - <i>Please</i>](https://www.youtube.com/watch?v=6Lzk_tGQB9w)
+[William Basinski - <i>Disintegration Loops</i>](https://www.youtube.com/watch?v=LGddm-hw-Xc)
+[oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
+[Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
+[(Documentary) Delia Derbyshire - <i>The Delian Mode</i>](https://www.youtube.com/watch?v=n2dvGQ32q8g)
 
 ---
 
