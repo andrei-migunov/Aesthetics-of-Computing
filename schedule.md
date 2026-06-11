@@ -61,9 +61,9 @@ Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/E
 **Topic:** Aesthetic Theory and Rhetoric
 
 **Readings:** 
-Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>, 
-Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 1 
-Susan Sontag - <i>Against Interpretation  </i>
+<!-- Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>,  -->
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 1 : Aesthetics
+
 
 **Viewings:**
 
@@ -78,12 +78,15 @@ Susan Sontag - <i>Against Interpretation  </i>
 **Topic:** Aesthetics and the Unconscious
 
 **Readings:** Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
-Daniel Kahneman - <i>Systems 1 and 2</i>
-[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
+Susan Sontag - <i>Against Interpretation  </i>
+<!-- Daniel Kahneman - <i>Systems 1 and 2</i> -->
+
 
 **Viewings:** 
 
-**Optional:** Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
+**Optional:** 
+
+Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
 Bill Livant - The Hole in Hegel's Bagel
 
 
@@ -103,7 +106,7 @@ Bill Livant - The Hole in Hegel's Bagel
 
 **Readings:** [David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
 
-Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2 
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes to Play 
 
 **Viewings:** [Two Crows Play in Snow on Car](https://www.youtube.com/watch?v=h7GmYJnUtsY)
 
@@ -328,13 +331,17 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Date:** 11/9
 
-**Topic:**
+**Topic:** Nostalgia and Retro
 
-**Readings:**
+**Readings:** [Interview V. Mannucci, V. Mattioli, Mark Fisher - Nostalgia and Lost Futures](https://my-blackout.com/2019/04/26/mark-fisher-hauntology-nostalgia-and-lost-futures-interviewed-by-v-mannucci-v-mattioli/)
+[Tech Nostalgia matters because it's the history of us](https://archive.is/SMtXn)
+[(skim) Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
 
-**Viewings:**
 
-**Optional:**
+**Optional:** [old games](https://archive.org/details/msdos_Neuromancer_1988)
+[Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
+[Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
+[Halt and Catch Fire - 90s Nostalgia](https://www.youtube.com/watch?v=LvfKEJmqMQQ)
 
 ---
 
@@ -352,73 +359,79 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Date:** 11/16
 
-**Topic:**
+**Topic:** Environment and Visual Design
 
-**Readings:**
+**Readings:** 
+[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
 
 **Viewings:**
+[Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
+ [How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+[Games that don't fake the space](https://www.youtube.com/watch?v=Q85l1Fenc5w)
+[Procedurally generated city](https://www.youtube.com/watch?v=7MsAbMCxdkc)
+[Procedurally generated dungeons](https://www.youtube.com/watch?v=TPvxWIKHE6Q)
 
-**Optional:**
+**Optional:**[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+[Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
+[First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
+[Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
+
+[Myst](https://en.wikipedia.org/wiki/Myst)
 
 ---
 
 **Date:** 11/18
 
-**Topic:**
+**Topic:** Goal-Seeking Aesthetics
 
-**Readings:**
+**Readings:** 
+Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aesthetics
 
-**Viewings:**
-
-**Optional:**
+**Play**: Play some [Tetris](https://www.freetetris.org/) and also some [Mario](https://www.smbgames.be/original-smb.php)
 
 ---
 
 **Date:** 11/23
 
-**Topic:**
+**Topic:** Dollhouse Aesthetics
 
-**Readings:**
+**Readings:**   Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 5: Dollhouse Aesthetics
 
-**Viewings:**
-
-**Optional:**
-
+**Play:** Find a game which features dollhouse aesthetics and play it a bit - then report back in class! 
 ---
 
 **Date:** 11/25
 
-**Topic:**
+**Topic:** NO CLASS - Thanksgiving
 
-**Readings:**
-
-**Viewings:**
-
-**Optional:**
 
 ---
 
 **Date:** 11/30
 
-**Topic:**
+**Topic:** Noise and Chaos
 
-**Readings:**
+**Readings:** [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
+[Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
 
 **Viewings:**
 
-**Optional:**
+**Optional:** [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
 ---
 
 **Date:** 12/1
 
-**Topic:**
+**Topic:** AI Art, Pixel Art, and Slop
 
-**Readings:**
+**Readings:** [(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
+[Harvard Gazette - <i>Is Art Generated by AI Real Art?</i>](https://news.harvard.edu/gazette/story/2023/08/is-art-generated-by-artificial-intelligence-real-art/)
+[Quiz - <i>Real or AI?</i>](https://britannicaeducation.com/blog/quiz-real-or-ai/)
+[Welcome to Slop World: how the hostile internet is driving us crazy](https://archive.is/RKBgT)
 
-**Viewings:**
+**Viewings:** [Waneela - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)       
 
-**Optional:**
+**Optional:** [This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
 
 
 

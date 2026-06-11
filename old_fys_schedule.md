@@ -115,14 +115,14 @@ Sept 22 |
 Topic: Electronic Aesthetics and Computers Themselves
 Reading for this day: 
 Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
-[Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
+
 Viewing for this day: 
 [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
 [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
 [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
 [2001: A Space Odyssey Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
 [Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
-Supplementary: Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
+Supplementary: 
 
 
 ____________________________________
