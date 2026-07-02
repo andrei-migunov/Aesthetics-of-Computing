@@ -21,6 +21,13 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 
 # Detailed Schedule
+
+Our full schedule of topics as well as readings for these topics can be found below. 
+
+I also try to include *reasons* for *why* we are spending time on these topics (I think I owe you that), as well as *discussion questions* that you can use to guide your reading and note-taking. Some of these discussion questions are *required* which means that you should come prepared to share your thoughts about that question. So please look at both the schedule below and the attached document regularly. (As usual, sign into that document with your Drake login info.)
+
+(Why we're learning what we're learning)[https://docs.google.com/spreadsheets/d/1IJnKhUbO300HY-U8IuIayjQd-wuzVfdqguXDsl6y1kw/edit?usp=sharing]
+
 ---
 
 **Date:** 8/24
@@ -37,14 +44,13 @@ Supplementary readings are <i>optional</i> and you are not required to read them
 
 **Topic:** What is Aesthetics? + Everyday Aesthetics
 
-**Readings:** The whole syllabus (this website) and the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/). 
+**Readings:** The whole syllabus (this whole website) as well as the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/). 
 
 Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-
 **TODO:** Syllabus Quiz on Blackboard (Due tonight)
 
-**Viewings:** (please do not watch the entire 4.5 hour loop) 
+**Viewings:** (please do not watch the entire 4.5 hour loops, just glance at those and absorb the vibe) 
 [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), 
 [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), 
 [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), 
