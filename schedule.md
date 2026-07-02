@@ -197,7 +197,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Topic:** Chaotech and the Aesthetics of Machine Decay
 
-**Reading:** Brummett - Ch. 4 (Chaotech) 
+**Reading:** Brummett - Ch. 4 (Chaotech), ((skim) Tech Noir - Wikipedia)[https://en.wikipedia.org/wiki/Tech_noir]
 
 **Viewing:**[Abandoned mechtech](https://www.youtube.com/watch?v=03yLySD8jOg), [Abandoned electrotech - focus on the device, not its environment](https://www.youtube.com/shorts/jv7iOBBJ6Ns)
 
