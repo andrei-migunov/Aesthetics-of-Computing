@@ -18,7 +18,7 @@ permalink: /index
 
 # COURSE DESCRIPTION 
 
-Introduction to the study of computing objects and experiences from the standpoint of aesthetics and rhetoric. The focus of this course is the study of the nature of beauty and other aesthetic phenomena in machines, in technology, and in computing devices. Attention is paid to the phenomenology of aesthetic experience, everyday objects such as phones and personal computers, and cultural experiences with technology. Topics are variable and include videogames, algorithmically generated artwork, and the cyberpunk genre. Examinations of technology and computing in art, music, and film. 
+Introduction to the study of computing objects and experiences from the standpoint of aesthetics and rhetoric. The focus of this course is the study of the nature of beauty and other aesthetic phenomena in machines, in technology, and in computing devices. Attention is paid to the phenomenology of aesthetic experience, everyday objects such as phones and personal computers, and cultural experiences with technology. Topics are variable and include videogames, algorithmically generated artwork, and the cyberpunk genre. Examinations of technology and computing in art, music, and film. You can find detailed justifications for the specific topics of the course, as well as related discussion questions, [here](https://docs.google.com/spreadsheets/d/1IJnKhUbO300HY-U8IuIayjQd-wuzVfdqguXDsl6y1kw/edit?usp=sharing).
 
 You might also think an important topic, reading, idea, or even particular aesthetic object (a song, picture, movie) is missing. If so, tell me! Convince me it matters, and maybe it can be incorporated into the class.
 
