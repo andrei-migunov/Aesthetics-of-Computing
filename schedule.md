@@ -353,9 +353,9 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Date:** 11/11
 
-**Topic:**
+**Topic:** Gamer Aesthetics and Aesthetics of Speed
 
-**Readings:**
+**Readings:** TBD
 
 **Viewings:**
 
