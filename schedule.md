@@ -26,7 +26,7 @@ Our full schedule of topics as well as readings for these topics can be found be
 
 I also try to include *reasons* for *why* we are spending time on these topics (I think I owe you that), as well as *discussion questions* that you can use to guide your reading and note-taking. Some of these discussion questions are *required* which means that you should come prepared to share your thoughts about that question. So please look at both the schedule below and the attached document regularly. (As usual, sign into that document with your Drake login info.)
 
-(Why we're learning what we're learning)[https://docs.google.com/spreadsheets/d/1IJnKhUbO300HY-U8IuIayjQd-wuzVfdqguXDsl6y1kw/edit?usp=sharing]
+[Why we're learning what we're learning](https://docs.google.com/spreadsheets/d/1IJnKhUbO300HY-U8IuIayjQd-wuzVfdqguXDsl6y1kw/edit?usp=sharing)
 
 ---
 
@@ -368,6 +368,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 **Topic:** Environment and Visual Design
 
 **Readings:** 
+[How Architecture Shapes Videogame Play](https://theconversation.com/how-architecture-shapes-video-game-play-254632)
 [Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
 
 **Viewings:**
