@@ -274,7 +274,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Reading:** Chapter 1 of Joshua Clover's <i>The Matrix</i> 
 [Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
 
-**Viewing:** [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7?referrer=direct) (required! Will be available for free via Drake - link to be shared later)
+**Viewing:** [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7) (required! )
 
 **Listening:**: [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
 [Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
