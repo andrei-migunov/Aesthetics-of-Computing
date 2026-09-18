@@ -540,7 +540,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 
 **Topic:** AI Art, Pixel Art, and Slop
 
-**Readings:** [(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
+**Readings:** 
+[(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
+[Eryk Salvaggio - <i>From Interactive to Interpassive</i>](https://mail.cyberneticforests.com/from-interactive-to-interpassive/)
 [Waneella and Liam Wong on the Artistic Allure of Japan](https://vol.co/blogs/journal/waneella_vs_wong)
 [Welcome to Slop World: how the hostile internet is driving us crazy](https://archive.is/RKBgT)
 
