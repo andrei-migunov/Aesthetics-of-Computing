@@ -544,11 +544,12 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 [(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
 [Eryk Salvaggio - <i>From Interactive to Interpassive</i>](https://mail.cyberneticforests.com/from-interactive-to-interpassive/)
 [Waneella and Liam Wong on the Artistic Allure of Japan](https://vol.co/blogs/journal/waneella_vs_wong)
-[Welcome to Slop World: how the hostile internet is driving us crazy](https://archive.is/RKBgT)
+[Wikipedia - <i>AI Slop</i>](https://en.wikipedia.org/wiki/AI_slop)
 
 **Viewings:** [Waneella - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)       
 
 **Optional:**
+[Welcome to Slop World: how the hostile internet is driving us crazy](https://archive.is/RKBgT)
 [Quiz - <i>Real or AI?</i>](https://britannicaeducation.com/blog/quiz-real-or-ai/)
 [This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
 
