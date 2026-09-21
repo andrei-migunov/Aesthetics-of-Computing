@@ -72,7 +72,7 @@ Attendance and participation determine the 'discussion' portion of your grade an
 
 Office hours are a time to talk to the professor, get clarification, ask questions, talk through ideas and concepts, solve problems, etc. You are welcome at my office hours and I'd love to see you there. My office hours are always in Collier-Scripps Room 321. I can also set office hours by appointment - so if you *can't make it* to the standard office hours, please email me and let's set up a time! I promise it's no inconvenience - and time spent in office hours can be very rewarding!
 
-My office hours are always available at [this link](bit.ly/46DXeZT), and are updated each week. 
+My office hours are always available at [bit.ly/46DXeZT](https://bit.ly/46DXeZT), and are updated each week. (If clicking this link doesn't work for some reason, just copy and paste it into your browser)
 
 
 # THE AVERAGE DAY OF CLASS
