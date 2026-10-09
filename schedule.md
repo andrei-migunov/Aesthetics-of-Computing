@@ -347,9 +347,9 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** Cyberpunk
 
-**Readings:** Stories from the Big Book - TBD
+**Readings:** Samuel R. Delany - <i>Time Considered As a Helix of Semiprecious Stones</i> from <i>The Big Book of Cyberpunk</i>
 
-**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Read the piece and be prepared to engage in quality conversation about it!
 
 ---
 
@@ -375,7 +375,9 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Date:** 11/2
 
-**Topic:** *Blade Runner (1982)*
+**Topic:** *Blade Runner (1982)* 
+
+**Watch:** [*Blade Runner*](https://digitalcampus.swankmp.net/drake373537/watch/C9BD78E96D3A71E0)
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
