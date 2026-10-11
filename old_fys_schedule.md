@@ -205,7 +205,7 @@ Viewing for this day:
 Supplementary: 
 [How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 [Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
-[First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
+[First generation of console games](https://en.wikipedia.org/wiki/)
 [Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
 [Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
 [Myst](https://en.wikipedia.org/wiki/Myst)

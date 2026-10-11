@@ -377,7 +377,13 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** *Blade Runner (1982)* 
 
+**Read**: [Barbara and Karen Fields - <i> Racecraft </i> Introduction (read Ch. 1 also if you want! read the whole thing if you want!)](https://analepsis.org/wp-content/uploads/2017/08/barbara-j-fields-and-karen-fields-racecraft-the-soul-of-inequality-in-american-life.pdf)
+
+
+*Warning: The video below depicts a conversation with a (fictional) racist and the movie below includes a scene of sexual harassment. Watch with your own discretion.*
+
 **Watch:** [*Blade Runner*](https://digitalcampus.swankmp.net/drake373537/watch/C9BD78E96D3A71E0)
+[Watch a bit of this dialogue with "Measurehead" from <i>Disco Elysium</i>, starting at the embedded timestamp](https://youtu.be/6aL7hK8h3WQ?si=WCAoBZLPI_obbso4&t=785)
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
