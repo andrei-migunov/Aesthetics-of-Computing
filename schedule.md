@@ -379,14 +379,21 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Read**: [Barbara and Karen Fields - <i> Racecraft </i> Introduction (read Ch. 1 also if you want! read the whole thing if you want!)](https://analepsis.org/wp-content/uploads/2017/08/barbara-j-fields-and-karen-fields-racecraft-the-soul-of-inequality-in-american-life.pdf)
 
+[(Skim) Wikipedia - <i>the Turing Test</i>](https://en.wikipedia.org/wiki/Turing_test)
 
-*Warning: The video below depicts a conversation with a (fictional) racist and the movie below includes a scene of sexual harassment. Watch with your own discretion.*
+
+*Warning: The youtube video below depicts a conversation with a (fictional) racist and the movie below includes a (non-graphic) scene of sexual harassment. Watch with your own discretion.*
 
 **Watch:** [*Blade Runner*](https://digitalcampus.swankmp.net/drake373537/watch/C9BD78E96D3A71E0)
 [Watch a bit of this dialogue with "Measurehead" from <i>Disco Elysium</i>, starting at the embedded timestamp](https://youtu.be/6aL7hK8h3WQ?si=WCAoBZLPI_obbso4&t=785)
 
-**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
+**Discussion Questions:** 
 
+**1. What is the Fields sisters' argument, precisely? (Please be careful to get their argument right. Re-read if you need to, come talk to me about it, seek out other sources, etc.)**
+
+**2. What are the relationships between the human/replicant divisions of the *Blade Runner* universe and the racial divisions described by the Fields sisters?**
+
+**3. Can intelligence be a criterion for humanity?**
 
 ---
 
