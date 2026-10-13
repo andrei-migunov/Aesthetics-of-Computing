@@ -323,6 +323,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 **Viewings**: Look around online and find examples of both the uncanny and the sublime - add these to the slides with your name.
 
 **Optional:** [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
+[Wikipedia - <i> Digital Sublime </i>](https://en.wikipedia.org/wiki/Digital_sublime)
 
 **Discussion Questions:** 
   1. Can something be uncanny and sublime? Can something be neither?
