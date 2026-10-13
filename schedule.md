@@ -296,6 +296,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Viewings:** [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
 
 **Optional:** [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
+[Wikipedia - <i> Cybernetic Art </i>](https://en.wikipedia.org/wiki/Cybernetic_art)
 
 **Discussion Questions:** 
 
