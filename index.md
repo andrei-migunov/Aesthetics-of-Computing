@@ -107,7 +107,7 @@ In accordance with the [Artistic Literacy area of inquiry](https://www.drake.edu
 * Articulate a reasoned understanding of computing-related literature and film (epecially relating to the cyberpunk genre) and communicate this understanding through writing.
 
 # STUDENT DISABILITY SERVICES
-If you have a disability and require academic or physical accommodations in this course, please contact me and Student Disability Services (Michelle Laughlin, Director of Student Disability Services, at 271-1835 or michelle.laughlin@drake.edu) in advance of the date the accommodations are needed. Student Disability Services will coordinate with me to ensure that the necessary accommodations are provided. You must <b>talk to me in person</b> after you receive notification of your accommodation to let me know, and to plan. Please come to my office hours to do so. This is not optional! 
+If you have a disability and require academic or physical accommodations in this course, please contact me and the [Office of Access and Success](https://www.drake.edu/academics/aess/access-success/accessibility/resources) in advance of the date the accommodations are needed. The Office of Access and Success will coordinate with me to ensure that the necessary accommodations are provided. You must <b>talk to me in person</b> after you receive notification of your accommodation to let me know, and to plan for your needs. Please come to my office hours to do so. This is not optional if you wish to use your accommodations in this class! 
 
 # SOME LINKS
 Here are some useful links for making it through the semester.
