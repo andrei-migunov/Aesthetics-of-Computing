@@ -359,7 +359,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** Cyberpunk
 
-**Readings:** Stories from the Big Book - TBD
+**Readings:** James Tiptree Jr. - <i>The Girl Who Was Plugged In</i> from <i>The Big Book of Cyberpunk</i>.
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
