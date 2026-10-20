@@ -341,6 +341,10 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:** [Neuromancer Ch.s 1-3](https://dn720006.ca.archive.org/0/items/neuromancer_202209/neuromancer.pdf)
 
+[Interview with Gibson (excerpt, really short)](https://gizmodo.com/how-did-william-gibson-really-feel-about-blade-runner-896472321)
+
+**Optional:** [Full interview](https://gwern.net/doc/fiction/science-fiction/2011-gibson.html)
+
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
 ---
@@ -351,6 +355,9 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:** Samuel R. Delany - <i>Time Considered As a Helix of Semiprecious Stones</i> from <i>The Big Book of Cyberpunk</i>
 
+Samuel R. Delany - [(Interview) <i>on Capitalism, Racism, and Science Fiction</i>](https://www.publicbooks.org/samuel-delany-on-capitalism-racism-and-science-fiction/)
+
+
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Read the piece and be prepared to engage in quality conversation about it!
 
 ---
@@ -360,6 +367,8 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 **Topic:** Cyberpunk
 
 **Readings:** James Tiptree Jr. - <i>The Girl Who Was Plugged In</i> from <i>The Big Book of Cyberpunk</i>.
+
+**Optional:** Phil Neel - <i> Labor in the AI Labyrinth Pt. 1
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
