@@ -376,11 +376,13 @@ Samuel R. Delany - [(Interview) <i>on Capitalism, Racism, and Science Fiction</i
 
 **Date:** 10/28
 
-**Topic:** Theory of Cyberpunk
+**Topic:** NO CLASS - Work on Draft
 
-**Readings:** TBD
+<!-- Theory of Cyberpunk --> 
 
-**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
+**Readings:** None
+
+<!-- **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic! -->
 
 ---
 
