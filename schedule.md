@@ -467,16 +467,19 @@ Samuel R. Delany - [(Interview) <i>on Capitalism, Racism, and Science Fiction</i
 
 **Date:** 11/11
 
-**Topic:** Gamer Aesthetics and Aesthetics of Speed
+**Topic:** Games and Players
 
-**Readings:** [Aesthetics Wiki- <i> The Gamer Aesthetic </i>](https://aesthetics.fandom.com/wiki/Category:Gaming)
+**Readings:** 
+Bourdeau, Consalvo, Phelps - <i>Whose Vibe is it Anyway? Negotiating Definitions of Cozy Games</i>
 
-**Viewings:**
+**Viewings:** [mirumys - 
+cozy gaming vlog](https://www.youtube.com/watch?v=_UF-9yzS_wE)
 
 **Optional:**
 
 **Discussion Questions:** 
    1. **What is a gamer? Do gamers constitute a community? If so, is it based on a shared aesthetic experience?**
+   2. **Do cozy games tend to work for or against gamer community?**
 
 ---
 
@@ -485,20 +488,27 @@ Samuel R. Delany - [(Interview) <i>on Capitalism, Racism, and Science Fiction</i
 **Topic:** Environment and Visual Design
 
 **Readings:** 
+(Read both)
 [How Architecture Shapes Videogame Play](https://theconversation.com/how-architecture-shapes-video-game-play-254632)
-[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
+[Jim Rossignol - <i>Evil Lair: On the Architecture of the Enemy in Videogame Worlds</i>](https://www.bldgblog.com/2009/05/evil-lair-on-the-architecture-of-the-enemy-in-videogame-worlds/)
+
 
 **Viewings:**
+(Pick a few, or watch em all - up to you!)
 [Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
- [How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+[How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 [Games that don't fake the space](https://www.youtube.com/watch?v=Q85l1Fenc5w)
 [Procedurally generated city](https://www.youtube.com/watch?v=7MsAbMCxdkc)
 [Procedurally generated dungeons](https://www.youtube.com/watch?v=TPvxWIKHE6Q)
 
-**Optional:**[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+**Optional:**
+[Brent Ables - <i>Illumination and Occlusion - Dark Souls, Remastered</i>](https://heterotopiaszine.com/2018/08/23/illumination-occlusion-dark-souls-remastered/)
+[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
+[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 [Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
 [First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
 [Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
+[Game Design as Narrative Architecture](https://web.mit.edu/~21fms/People/henry3/games&narrative.html)
 
 [Myst](https://en.wikipedia.org/wiki/Myst)
 
